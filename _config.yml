@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "libin.jpg"
   name             : "LI Bin 李彬"
-  pronouns         : "he/his"  
+  # pronouns         : "he/his"  
   location         : "Wuhan Hubei, China"
   employer         : "Wuhan University"
   uri              : # URL
